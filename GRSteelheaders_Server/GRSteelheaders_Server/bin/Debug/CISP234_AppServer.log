@@ -1,0 +1,233 @@
+4/3/2012 9:54:32 PM	Server Startup Initiated at 4/3/2012 9:54:31 PM
+4/3/2012 9:54:32 PM	Awaiting connection on port 5000.
+4/3/2012 9:54:35 PM	Accepted a Connection from: 127.0.0.1:6516.
+4/3/2012 9:54:35 PM	Client Session 1 Initialized from 127.0.0.1:6516.
+4/3/2012 9:54:35 PM	Awaiting connection on port 5000.
+4/3/2012 9:54:35 PM	Request: <request><action>listStatuses</action></request>
+4/3/2012 9:54:37 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><majors><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></majors></response>
+4/3/2012 9:56:03 PM	Server Startup Initiated at 4/3/2012 9:56:03 PM
+4/3/2012 9:56:03 PM	Awaiting connection on port 5000.
+4/3/2012 9:56:08 PM	Accepted a Connection from: 127.0.0.1:6519.
+4/3/2012 9:56:08 PM	Client Session 1 Initialized from 127.0.0.1:6519.
+4/3/2012 9:56:08 PM	Awaiting connection on port 5000.
+4/3/2012 9:56:08 PM	Request: <request><action>listStatuses</action></request>
+4/3/2012 9:56:08 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/3/2012 9:56:53 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301</mem_zip><mem_phone>616 363 3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>0</mem_status_id></member></request>
+4/3/2012 9:56:53 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/3/2012 9:57:07 PM	Request: <request><action>disconnect</action></request>
+4/3/2012 9:57:07 PM	Response: <response><errorCode>0</errorCode></response>
+4/3/2012 9:57:07 PM	Session 1 disconnected.
+4/9/2012 4:34:57 PM	Server Startup Initiated at 4/9/2012 4:34:57 PM
+4/9/2012 4:34:57 PM	Awaiting connection on port 5000.
+4/9/2012 4:35:03 PM	Accepted a Connection from: 127.0.0.1:10910.
+4/9/2012 4:35:03 PM	Client Session 1 Initialized from 127.0.0.1:10910.
+4/9/2012 4:35:03 PM	Awaiting connection on port 5000.
+4/9/2012 4:35:03 PM	Request: <request><action>listStatuses</action></request>
+4/9/2012 4:35:09 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/9/2012 4:35:47 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>39401</mem_zip><mem_phone>616 363 3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:35:47 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:38:02 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>39401</mem_zip><mem_phone>616 363 3564</mem_phone><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:38:02 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:38:06 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>39401</mem_zip><mem_phone /><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:38:06 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:38:09 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip /><mem_phone /><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:38:09 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:38:14 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code /><mem_zip /><mem_phone /><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:38:14 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:38:21 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city /><mem_state_code /><mem_zip /><mem_phone /><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:38:21 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:38:25 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address /><mem_city /><mem_state_code /><mem_zip /><mem_phone /><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:38:25 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:38:28 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name /><mem_address /><mem_city /><mem_state_code /><mem_zip /><mem_phone /><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:38:28 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:38:30 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name /><mem_last_name /><mem_address /><mem_city /><mem_state_code /><mem_zip /><mem_phone /><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:38:30 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:38:39 PM	Request: <request><action>disconnect</action></request>
+4/9/2012 4:38:39 PM	Response: <response><errorCode>0</errorCode></response>
+4/9/2012 4:38:39 PM	Session 1 disconnected.
+4/9/2012 4:57:43 PM	Server Startup Initiated at 4/9/2012 4:57:43 PM
+4/9/2012 4:57:43 PM	Awaiting connection on port 5000.
+4/9/2012 4:57:47 PM	Accepted a Connection from: 127.0.0.1:11420.
+4/9/2012 4:57:47 PM	Client Session 1 Initialized from 127.0.0.1:11420.
+4/9/2012 4:57:47 PM	Awaiting connection on port 5000.
+4/9/2012 4:57:47 PM	Request: <request><action>listStatuses</action></request>
+4/9/2012 4:57:47 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/9/2012 4:58:20 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301</mem_zip><mem_phone>616 363 2564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>0</mem_status_id></member></request>
+4/9/2012 4:58:20 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:58:36 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301</mem_zip><mem_phone>616 363 2564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/9/2012 4:58:36 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:58:44 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301</mem_zip><mem_phone>616 363 2564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>2</mem_status_id></member></request>
+4/9/2012 4:58:44 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 4:59:05 PM	Request: <request><action>disconnect</action></request>
+4/9/2012 4:59:05 PM	Response: <response><errorCode>0</errorCode></response>
+4/9/2012 4:59:05 PM	Session 1 disconnected.
+4/9/2012 5:09:28 PM	Server Startup Initiated at 4/9/2012 5:09:28 PM
+4/9/2012 5:09:28 PM	Awaiting connection on port 5000.
+4/9/2012 5:10:26 PM	Accepted a Connection from: 127.0.0.1:11623.
+4/9/2012 5:10:26 PM	Client Session 1 Initialized from 127.0.0.1:11623.
+4/9/2012 5:10:26 PM	Awaiting connection on port 5000.
+4/9/2012 5:10:26 PM	Request: <request><action>listStatuses</action></request>
+4/9/2012 5:10:26 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/9/2012 5:16:33 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301</mem_zip><mem_phone>363 3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/9/2012 5:16:33 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/9/2012 5:18:22 PM	Request: 
+4/9/2012 5:18:22 PM	General Error: Value cannot be null.
+Parameter name: s
+4/9/2012 5:18:22 PM	Response: 
+4/9/2012 5:18:22 PM	Client disconnected without saying goodbye.  How rude!
+4/9/2012 5:18:22 PM	Session 1 disconnected.
+4/9/2012 5:24:25 PM	Server Startup Initiated at 4/9/2012 5:24:25 PM
+4/9/2012 5:24:25 PM	Awaiting connection on port 5000.
+4/9/2012 5:24:33 PM	Accepted a Connection from: 127.0.0.1:11687.
+4/9/2012 5:24:33 PM	Client Session 1 Initialized from 127.0.0.1:11687.
+4/9/2012 5:24:33 PM	Awaiting connection on port 5000.
+4/9/2012 5:24:33 PM	Request: <request><action>listStatuses</action></request>
+4/9/2012 5:24:33 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/9/2012 5:24:37 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name></member></request>
+4/9/2012 5:24:37 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/11/2012 3:27:14 PM	Server Startup Initiated at 4/11/2012 3:27:14 PM
+4/11/2012 3:27:14 PM	Awaiting connection on port 5000.
+4/11/2012 3:27:31 PM	Accepted a Connection from: 127.0.0.1:25172.
+4/11/2012 3:27:31 PM	Client Session 1 Initialized from 127.0.0.1:25172.
+4/11/2012 3:27:31 PM	Awaiting connection on port 5000.
+4/11/2012 3:27:31 PM	Request: <request><action>listStatuses</action></request>
+4/11/2012 3:27:42 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/11/2012 3:27:45 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name /><mem_last_name /><mem_address /><mem_city /><mem_state_code /><mem_zip /><mem_phone /><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/11/2012 3:27:45 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/11/2012 3:29:23 PM	Request: <request><action>disconnect</action></request>
+4/11/2012 3:29:23 PM	Response: <response><errorCode>0</errorCode></response>
+4/11/2012 3:29:23 PM	Session 1 disconnected.
+4/11/2012 3:29:32 PM	Server Startup Initiated at 4/11/2012 3:29:32 PM
+4/11/2012 3:29:32 PM	Awaiting connection on port 5000.
+4/11/2012 3:29:35 PM	Accepted a Connection from: 127.0.0.1:25173.
+4/11/2012 3:29:35 PM	Client Session 1 Initialized from 127.0.0.1:25173.
+4/11/2012 3:29:35 PM	Awaiting connection on port 5000.
+4/11/2012 3:29:35 PM	Request: <request><action>listStatuses</action></request>
+4/11/2012 3:29:35 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/11/2012 3:29:37 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name /><mem_last_name /><mem_address /><mem_city /><mem_state_code /><mem_zip /><mem_phone /><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/11/2012 3:29:37 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/11/2012 4:08:46 PM	Server Startup Initiated at 4/11/2012 4:08:46 PM
+4/11/2012 4:08:46 PM	Awaiting connection on port 5000.
+4/11/2012 4:08:51 PM	Accepted a Connection from: 127.0.0.1:25543.
+4/11/2012 4:08:51 PM	Client Session 1 Initialized from 127.0.0.1:25543.
+4/11/2012 4:08:51 PM	Awaiting connection on port 5000.
+4/11/2012 4:08:51 PM	Request: <request><action>listStatuses</action></request>
+4/11/2012 4:08:51 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/11/2012 4:09:23 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 4:09:23 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/11/2012 4:10:07 PM	Request: <request><action>disconnect</action></request>
+4/11/2012 4:10:07 PM	Response: <response><errorCode>0</errorCode></response>
+4/11/2012 4:10:07 PM	Session 1 disconnected.
+4/11/2012 5:34:30 PM	Server Startup Initiated at 4/11/2012 5:34:30 PM
+4/11/2012 5:34:30 PM	Awaiting connection on port 5000.
+4/11/2012 5:34:34 PM	Accepted a Connection from: 127.0.0.1:26503.
+4/11/2012 5:34:34 PM	Client Session 1 Initialized from 127.0.0.1:26503.
+4/11/2012 5:34:34 PM	Awaiting connection on port 5000.
+4/11/2012 5:34:34 PM	Request: <request><action>listMajorCodes</action></request>
+4/11/2012 5:34:34 PM	Response: 
+4/11/2012 5:34:39 PM	Request: <request><action>disconnect</action></request>
+4/11/2012 5:34:39 PM	Response: <response><errorCode>0</errorCode></response>
+4/11/2012 5:34:39 PM	Session 1 disconnected.
+4/11/2012 5:34:43 PM	Accepted a Connection from: 127.0.0.1:26504.
+4/11/2012 5:34:43 PM	Client Session 2 Initialized from 127.0.0.1:26504.
+4/11/2012 5:34:43 PM	Awaiting connection on port 5000.
+4/11/2012 5:34:43 PM	Request: <request><action>listStatuses</action></request>
+4/11/2012 5:34:43 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/11/2012 5:34:45 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name /><mem_last_name /><mem_address /><mem_city /><mem_state_code /><mem_zip>     -</mem_zip><mem_phone>(   )    -</mem_phone><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/11/2012 5:34:45 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/11/2012 5:38:01 PM	Request: <request><action>disconnect</action></request>
+4/11/2012 5:38:01 PM	Response: <response><errorCode>0</errorCode></response>
+4/11/2012 5:38:01 PM	Session 2 disconnected.
+4/11/2012 5:41:43 PM	Server Startup Initiated at 4/11/2012 5:41:43 PM
+4/11/2012 5:41:43 PM	Awaiting connection on port 5000.
+4/11/2012 5:41:47 PM	Accepted a Connection from: 127.0.0.1:26510.
+4/11/2012 5:41:47 PM	Client Session 1 Initialized from 127.0.0.1:26510.
+4/11/2012 5:41:47 PM	Awaiting connection on port 5000.
+4/11/2012 5:41:47 PM	Request: <request><action>listStatuses</action></request>
+4/11/2012 5:41:47 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/11/2012 5:41:52 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name /><mem_last_name /><mem_address /><mem_city /><mem_state_code /><mem_zip>     -</mem_zip><mem_phone>(   )    -</mem_phone><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/11/2012 5:41:52 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/11/2012 5:41:55 PM	Client disconnected without saying goodbye.  How rude!
+4/11/2012 5:41:55 PM	Session 1 disconnected.
+4/11/2012 5:42:18 PM	Server Startup Initiated at 4/11/2012 5:42:18 PM
+4/11/2012 5:42:18 PM	Awaiting connection on port 5000.
+4/11/2012 5:42:21 PM	Accepted a Connection from: 127.0.0.1:26511.
+4/11/2012 5:42:21 PM	Client Session 1 Initialized from 127.0.0.1:26511.
+4/11/2012 5:42:21 PM	Awaiting connection on port 5000.
+4/11/2012 5:42:21 PM	Request: <request><action>listStatuses</action></request>
+4/11/2012 5:42:21 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/11/2012 5:42:23 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name /><mem_last_name /><mem_address /><mem_city /><mem_state_code /><mem_zip>     -</mem_zip><mem_phone>(   )    -</mem_phone><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/11/2012 5:42:23 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/11/2012 5:42:24 PM	Request: <request><action>disconnect</action></request>
+4/11/2012 5:42:24 PM	Response: <response><errorCode>0</errorCode></response>
+4/11/2012 5:42:24 PM	Session 1 disconnected.
+4/11/2012 5:44:34 PM	Server Startup Initiated at 4/11/2012 5:44:34 PM
+4/11/2012 5:44:34 PM	Awaiting connection on port 5000.
+4/11/2012 5:44:48 PM	Accepted a Connection from: 127.0.0.1:26512.
+4/11/2012 5:44:48 PM	Client Session 1 Initialized from 127.0.0.1:26512.
+4/11/2012 5:44:48 PM	Awaiting connection on port 5000.
+4/11/2012 5:44:48 PM	Request: <request><action>listStatuses</action></request>
+4/11/2012 5:44:49 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/11/2012 5:45:29 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:45:29 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/11/2012 5:46:08 PM	Server Startup Initiated at 4/11/2012 5:46:08 PM
+4/11/2012 5:46:08 PM	Awaiting connection on port 5000.
+4/11/2012 5:46:23 PM	Accepted a Connection from: 127.0.0.1:26514.
+4/11/2012 5:46:23 PM	Client Session 1 Initialized from 127.0.0.1:26514.
+4/11/2012 5:46:23 PM	Awaiting connection on port 5000.
+4/11/2012 5:46:23 PM	Request: <request><action>listStatuses</action></request>
+4/11/2012 5:46:23 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/11/2012 5:46:25 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name /><mem_last_name /><mem_address /><mem_city /><mem_state_code /><mem_zip>     -</mem_zip><mem_phone>(   )    -</mem_phone><mem_email /><mem_status_id>0</mem_status_id></member></request>
+4/11/2012 5:47:10 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>Input string was not in a correct format.</errorMessage><member /></response>
+4/11/2012 5:50:49 PM	Server Startup Initiated at 4/11/2012 5:50:49 PM
+4/11/2012 5:50:49 PM	Awaiting connection on port 5000.
+4/11/2012 5:50:54 PM	Accepted a Connection from: 127.0.0.1:26518.
+4/11/2012 5:50:54 PM	Client Session 1 Initialized from 127.0.0.1:26518.
+4/11/2012 5:50:54 PM	Awaiting connection on port 5000.
+4/11/2012 5:50:54 PM	Request: <request><action>listStatuses</action></request>
+4/11/2012 5:50:54 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><statuses><status><status_id>1</status_id><status_desc>Root</status_desc></status><status><status_id>2</status_id><status_desc>Normal</status_desc></status><status><status_id>3</status_id><status_desc>Executive Board</status_desc></status></statuses></response>
+4/11/2012 5:51:24 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:27 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>-1</errorCode><errorMessage>The table 'Members' is already opened exclusively by another user, or it is already open through the user interface and cannot be manipulated programmatically.</errorMessage><member /></response>
+4/11/2012 5:51:35 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:35 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>1</mem_id></member></response>
+4/11/2012 5:51:40 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:40 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>2</mem_id></member></response>
+4/11/2012 5:51:40 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:40 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>3</mem_id></member></response>
+4/11/2012 5:51:41 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:41 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>4</mem_id></member></response>
+4/11/2012 5:51:41 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:41 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>5</mem_id></member></response>
+4/11/2012 5:51:41 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:41 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>6</mem_id></member></response>
+4/11/2012 5:51:41 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:41 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>7</mem_id></member></response>
+4/11/2012 5:51:41 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:41 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>8</mem_id></member></response>
+4/11/2012 5:51:41 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:41 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>9</mem_id></member></response>
+4/11/2012 5:51:42 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:42 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>10</mem_id></member></response>
+4/11/2012 5:51:42 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:42 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>11</mem_id></member></response>
+4/11/2012 5:51:42 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:42 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>12</mem_id></member></response>
+4/11/2012 5:51:42 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:42 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>13</mem_id></member></response>
+4/11/2012 5:51:42 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:42 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>14</mem_id></member></response>
+4/11/2012 5:51:42 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:42 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>15</mem_id></member></response>
+4/11/2012 5:51:42 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:42 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>16</mem_id></member></response>
+4/11/2012 5:51:43 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:43 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>17</mem_id></member></response>
+4/11/2012 5:51:43 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:43 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>18</mem_id></member></response>
+4/11/2012 5:51:43 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:43 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>19</mem_id></member></response>
+4/11/2012 5:51:43 PM	Request: <?xml version="1.0" encoding="utf-16"?><request><action>add</action><member><mem_first_name>Christopher</mem_first_name><mem_last_name>Davis</mem_last_name><mem_address>1950 Grand River Dr. NE</mem_address><mem_city>Ada</mem_city><mem_state_code>MI</mem_state_code><mem_zip>49301-0000</mem_zip><mem_phone>(616) 363-3564</mem_phone><mem_email>crevax@gmail.com</mem_email><mem_status_id>1</mem_status_id></member></request>
+4/11/2012 5:51:43 PM	Response: <?xml version="1.0" encoding="utf-16"?><response><errorCode>0</errorCode><member><mem_id>20</mem_id></member></response>
+4/11/2012 5:51:54 PM	Request: <request><action>disconnect</action></request>
+4/11/2012 5:51:54 PM	Response: <response><errorCode>0</errorCode></response>
+4/11/2012 5:51:54 PM	Session 1 disconnected.

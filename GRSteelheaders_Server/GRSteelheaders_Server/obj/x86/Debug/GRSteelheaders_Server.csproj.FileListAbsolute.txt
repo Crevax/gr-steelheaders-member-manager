@@ -1,0 +1,9 @@
+D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GRSteelheaders_Server\GRSteelheaders_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GRSteelheaders_Server\GRSteelheaders_Server\bin\Debug\GRSteelheaders_Server.exe
+D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GRSteelheaders_Server\GRSteelheaders_Server\bin\Debug\GRSteelheaders_Server.pdb
+D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GRSteelheaders_Server\GRSteelheaders_Server\bin\Debug\GR_Steelheaders_Member.dll
+D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GRSteelheaders_Server\GRSteelheaders_Server\bin\Debug\GR_Steelheaders_Member.pdb
+D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GRSteelheaders_Server\GRSteelheaders_Server\obj\x86\Debug\GRSteelheaders_Server.exe
+D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GRSteelheaders_Server\GRSteelheaders_Server\obj\x86\Debug\GRSteelheaders_Server.pdb
+F:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GRSteelheaders_Server\GRSteelheaders_Server\obj\x86\Debug\GRSteelheaders_Server.exe
+F:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GRSteelheaders_Server\GRSteelheaders_Server\obj\x86\Debug\GRSteelheaders_Server.pdb

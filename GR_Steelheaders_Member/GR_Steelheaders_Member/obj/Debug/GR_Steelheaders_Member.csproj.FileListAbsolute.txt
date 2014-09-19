@@ -1,5 +1,0 @@
-D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GR_Steelheaders_Member\GR_Steelheaders_Member\bin\Debug\GR_Steelheaders_Member.dll
-D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GR_Steelheaders_Member\GR_Steelheaders_Member\bin\Debug\GR_Steelheaders_Member.pdb
-D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GR_Steelheaders_Member\GR_Steelheaders_Member\obj\Debug\ResolveAssemblyReference.cache
-D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GR_Steelheaders_Member\GR_Steelheaders_Member\obj\Debug\GR_Steelheaders_Member.dll
-D:\School_Work\Winter_2012\CISP234_CSharp_II\FinalProject\GR_Steelheaders_Member\GR_Steelheaders_Member\obj\Debug\GR_Steelheaders_Member.pdb
